@@ -1,4 +1,4 @@
-#                                                             Augmented-reality-Computer-Graphics
+#                                                             Augmented-Reality-App
 This is the simple AR application made with Unity as a university project. *The Saint Petersburg Mosque* model is made in Blender. All activities in application are made with C# programming language.
 >The Saint Petersburg Mosque, when opened in 1913, was the largest mosque in Europe outside Turkey, its minarets 49 meters in height and the dome is 39 meters high. The mosque is situated in downtown St Petersburg,Russia. It can accommodate up to five thousand worshippers.
 
