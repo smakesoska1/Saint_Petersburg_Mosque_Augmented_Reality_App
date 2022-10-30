@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 83826d383c7542c4581d252045009cd7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zvuk: {fileID: 8300000, guid: f49aa2e71dc1a7a4d9e99ab7a43b562c, type: 3}
+  - source: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
