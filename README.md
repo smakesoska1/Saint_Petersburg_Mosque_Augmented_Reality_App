@@ -4,6 +4,7 @@ This is the simple AR application made with Unity as a university project. *The 
 
 ## Instructions for use
 To run the application on an android mobile device or iOS, the .apk file found on [this link](https://drive.google.com/drive/u/0/folders/1hkG5TqnpOu8kUf31xgjXeS32ofTioU3W) has to be downloaded and run. The name is mosque.apk. The target image that is pushed to GitHub named AR.png has to be scanned using mobile camera to view the object.
+![AR](/AR.png)
 
 [This video](https://drive.google.com/drive/u/0/folders/1w8w3gAdpCVgGDY1W2_nzA6x_5zRKIPfh) shows the app with all its features. 😁
 
@@ -15,4 +16,10 @@ The whole project with all libraries, models and languages can be found and down
 - The app has a user interface with some useful buttons for exit application and informations about the app
 
 ## Render images
+### Render images with black background
+![render1](/images/render1.png)
+![render1](/images/untitled.png)
+### Render images with HDR probes
+![render1](/images/sapozadinom2.png)
+![render1](/images/sapozadinom3.png)
 
